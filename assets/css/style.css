@@ -244,3 +244,18 @@ footer li {
 footer a {
     padding:2px;
 }
+
+.social-links > li {
+    display:inline;
+}
+
+.social-links i {
+    font-size:50px;
+    margin:30px;
+    color:black;
+}
+
+.social-links a:hover {
+    border-bottom:3px solid #ffd700;
+    padding-bottom:6px;
+}
