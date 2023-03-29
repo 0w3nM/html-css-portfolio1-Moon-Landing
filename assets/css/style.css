@@ -91,3 +91,19 @@ h4 {
     background-repeat:no-repeat;
     object-fit:fill;
 }
+
+img.align-right {
+    float:right;
+    margin-right:10px;
+    height:400px;
+    width:400px;
+    border:5px #ffd700 solid;
+}
+
+img.align-left {
+    float:left;
+    margin-left:10px;
+    height:400px;
+    width:400px;
+    border:5px #ffd700 solid;
+}
