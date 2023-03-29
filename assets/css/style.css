@@ -282,6 +282,7 @@ footer a {
     
     h4 {
         width:fit-content;
+        padding:10px;
     }
 
     audio {
@@ -305,6 +306,7 @@ footer a {
 
     h4 {
         width:fit-content;
+        padding:5px;
     }
 
     audio {
