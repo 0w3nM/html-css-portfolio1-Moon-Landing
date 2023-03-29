@@ -8,3 +8,38 @@ body {
     width:100%;
     margin:0;
 }
+
+/* images */
+
+#hero-outer {
+    height:20px;
+    width:100%;
+    overflow:hidden;
+}
+
+#hero-image {
+    height:600px;
+    width:100%;
+    background-image:url('../images/purple_moon.png');
+    background-position:center;
+    background-repeat:no-repeat;
+    object-fit:fill;
+}
+
+#hero-image2 {
+    height:600px;
+    width:100%;
+    background-image:url('../images/moon_stars.png');
+    background-repeat:no-repeat;
+    background-position:center;
+    object-fit:fill;
+}
+
+#hero-image3 {
+    height:560px;
+    width:100%;
+    background-image:url('../images/rocket_ship.jpg');
+    background-position:center;
+    background-repeat:no-repeat;
+    object-fit:fill;
+}
