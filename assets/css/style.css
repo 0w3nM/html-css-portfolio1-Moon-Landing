@@ -57,6 +57,38 @@ h4 {
     margin-bottom:auto; 
 }
 
+/* navigation links */
+
+#menu {
+    font-size:150%;
+    letter-spacing:2px;
+    color:whitesmoke;
+    font-weight:bold;
+}
+
+#menu, #logo {
+    line-height:65px;
+}
+
+#menu li {
+    float:right;
+    list-style-type:none;
+    margin-right:30px; 
+}
+
+#menu a {
+    text-decoration:none;
+    color:inherit;
+}
+
+#menu a:hover {
+    border-bottom:5px solid #ffd700;
+}
+
+.active {
+    border-bottom:3px solid #ffd700;
+}
+
 /* images */
 
 #hero-outer {
