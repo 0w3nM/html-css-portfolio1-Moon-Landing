@@ -1,5 +1,5 @@
 # Apollo 11 Moon Landing
-The Moon Landing website is designed to give information as to the overall mission, while also giving information on the history and the main crew involved. The site is particularly aimed at the younger audience as well as novices, in this field of study and will be useful for them to gain basic knowledge with links to help them further.
+The purpose of this website is to give information as to the overall moon landing mission, while also giving information on the history and the main crew involved. The site is particularly aimed at the younger audience as well as novices, in this field of study and will be useful for them to gain basic knowledge with links to help them further.
 
 -img-
 
@@ -12,27 +12,27 @@ The Moon Landing website is designed to give information as to the overall missi
 ![Active Nav Bar with a link next to it highlighted with a thicker line underneath](/assets/images/nav-bar2.png)
 
 - Landing Page:
-  * The page starts with a heading and a relevant image, followed by text boxes, with bitesize information, and internal & audio link.
-  * This page informs users of the main purpose of the site with information that is easy to understand.
+  * The page includes both internal & an audio link.
+  * The internal link allows users to navigate to a differernt page easier. The audio gives users control to listen to actual audio from the mssion. 
 
 ![Audio player ](/assets/images/audio-link.png)
 ![Links to internal pages](/assets/images/internal-link.png)
 
 - History page:
-  * The history page, topped with another relevant image, informs about the surrounding events and people of the mission.
-  * This allows the user to grasp a better and deeper understanding of the effort made on the project.
+  * The history page, has external links in text boxes.
+  * These features allow users to navigate to external sites easier.
 
   ![Links to external pages via names of individuals](/assets/images/external-links.png)
 
 - Biographies:
-  * This section shows the background, personal life and achievement of the crew that flew in the Apollo 11 mission.
-  * This helps users by gaining an insight on the individuals.
+  * This section deatures a scroll bar.
+  * This helps users view the content with a static page, focusing on the information.
 
   ![Scroll bar on right side of the text box](/assets/images/scroll-bar.png)
 
 - Gallery:
-  * The gallery page has a block of relevant images, set into the masonry design.
-  * This allows users to see different events surrounding the mission.
+  * The gallery page has a block of relevant images, set into the masonry design with a zoom feature.
+  * This allows users to focus on indivdual images.
 
 ![Images decending down the screen in two columns](/assets/images/gallery-picture.png)
 ![Images decending downwards, on picture zoomed in when hovered over ](/assets/images/gallery2.png)
