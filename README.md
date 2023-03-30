@@ -53,14 +53,6 @@ The purpose of this website is to give information as to the overall moon landin
 
 - All HTML and CSS code were placed through the validator and errors were found on multiple passes through, where multiple wrong or unnecessary tags that were changed, removed, or relocated to fix the problems.
 
-## Devices Tested-
- - 12th Gen Intel (R) Core TM i7-12700F - Desktop
- - Intel(R) Core(TM) i7-8550U CPU - Laptop
- - Dell Inspiron i5 3000 - Latop
- - Samsung a52 s - Mobile
- - Samsung Galaxy s20 5g- Mobile
-
-
 - Tested through lighthouse in Dev Tools.
 
 ![lighthouse result](/assets/images/lighthouse-result.png)
@@ -82,6 +74,17 @@ The purpose of this website is to give information as to the overall moon landin
 # -Deployment-
 - The site was deployed to Github pages.
 - Live link to page can be found her - -link-
+
+## Web browsers Used-
+ - Chrome 
+ - Firefox
+
+## Devices Used-
+ - 12th Gen Intel (R) Core TM i7-12700F - Desktop
+ - Intel(R) Core(TM) i7-8550U CPU - Laptop
+ - Dell Inspiron i5 3000 - Latop
+ - Samsung a52 s - Mobile
+ - Samsung Galaxy s20 5g- Mobile
 
 # -Credits-
 ## Content
