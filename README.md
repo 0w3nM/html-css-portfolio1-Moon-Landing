@@ -47,23 +47,37 @@ The purpose of this website is to give information as to the overall moon landin
 ![Links to social media sits ](/assets/images/footer-4.png)
 
 # -Testing-
-The page has multiple features from menu, internal and external page links, audio playback, scroll bars, highlighting and zoom.
-   * The menu links placed at the top right-hand corner in descending order of importance. Each link highlights the page you are currently on with a golden bar underneath. When a user hovers over the page the border becomes larger to identify it more clearly.
-   * Internal links have been added to move the user to the page they are currently on to the page the topic is talking about.
-   * The external links take the user to a different page that has more detail about the subject, opening a new tab, so that the user stays on the page.
-   * The audio link sits inside one of the unordered lists as it is relevant to the topic and allows the user control over the playback.
-   * In the Biographies page, scroll bars have been added to the individual unordered lists as the text could distract when scrolling the whole page. Isolating the scroll mechanic allows user to focus on the text.
-   * The Gallery images have a zoom style attached to them. When the image is hovered over it will stand out amongst the rest, draw the eye of the user. The images are also placed into a masonry design to save from scrolling and being distracted by the blur.
+- The webpage was tested through Google Chrome Developer through out inspecting the change depending on the size of the screen and still allow content to be seen.
 
-The webpage has media queries added so that the design will change depending on the size of the screen and still allow content to be seen.
+- All links tested to see if they went to the correct location and all action elements i.e scroll bar and media were checked to work as intended.
 
-All HTML and CSS code were placed through the validator and errors were found on multiple passes through, where multiple wrong or unnecessary tags that were changed, removed, or relocated to fix the problems.
+- All HTML and CSS code were placed through the validator and errors were found on multiple passes through, where multiple wrong or unnecessary tags that were changed, removed, or relocated to fix the problems.
+
+## Devices Tested-
+ - 12th Gen Intel (R) Core TM i7-12700F - Desktop
+ - Intel(R) Core(TM) i7-8550U CPU - Laptop
+ - Dell Inspiron i5 3000 - Latop
+ - Samsung a52 s - Mobile
+ - Samsung Galaxy s20 5g- Mobile
+
+
+- Tested through lighthouse in Dev Tools.
+
+![lighthouse result](/assets/images/lighthouse-result.png)
 
 ## Validator Testing-
   - HTML
     * No errors returned when passing through the official [W3C validator](https://validator.w3.org/)
+
+  ![Home page validator result](/assets/images/index-validator.png)
+  ![History page validator result](/assets/images/history-validator.png)
+  ![Biographies page validator result](/assets/images/bio-validator.png)
+  ![Gallery page validator result](/assets/images/gallery-validator.png)
+
   - CSS
     * No errors returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+
+  ![css validator result](/assets/images/css-validator.png)
 
 # -Deployment-
 - The site was deployed to Github pages.
