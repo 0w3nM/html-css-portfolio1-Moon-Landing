@@ -74,11 +74,15 @@ All HTML and CSS code were placed through the validator and errors were found on
   - The text on the Home page was taken and reworded from [NASA.gov](https://www.nasa.gov/mission_pages/apollo/apollo11.html) 
   - The text from the History page was taken and reworded from [NASA.gov](https://www.nasa.gov/mission_pages/apollo/missions/index.html), [History.com](https://www.history.com/topics/space-exploration/moon-landing-1969)
   - The Biographies pages have text taken and re-worded from these sites:
-    - Neil A. Armstrong - [NASA.gov](https://www.nasa.gov/centers/glenn/about/bios/neilabio.html), [Wikipedia.org](https://en.wikipedia.org/wiki/Neil_Armstrong) & [History.com](https://www.history.com/topics/space-exploration/neil-armstrong)
-    - Edwin E. 'Buzz' Aldrin - [BuzzAldrin.com](https://buzzaldrin.com/biography/) , [History.com](https://www.history.com/topics/space-exploration/buzz-aldrin) & [Wikipedia.org](https://en.wikipedia.org/wiki/Buzz_Aldrin)
-    - Michael Collins - [NASA.gov](https://www.nasa.gov/astronautprofiles/collins/), [wehackthemoon.com](https://wehackthemoon.com/bios/michael-collins) & [wikipedia.org](https://en.wikipedia.org/wiki/Michael_Collins_(astronaut))
-  - Instructions for scrolling and zoom on hover was taken from [W3School](https://www.w3schools.com/cssref/pr_pos_overflow.php)
-  - The icons in the footer were taken from [FontAwesome](https://fontawesome.com/)
+    - Neil A. Armstrong - [NASA.gov](https://www.nasa.gov/centers/glenn/about/bios/neilabio.html), [Wikipedia.org](https://en.wikipedia.org/wiki/Neil_Armstrong) & [History.com](https://www.history.com/topics/space-exploration/neil-armstrong).
+    - Edwin E. 'Buzz' Aldrin - [BuzzAldrin.com](https://buzzaldrin.com/biography/), [History.com](https://www.history.com/topics/space-exploration/buzz-aldrin) & [Wikipedia.org](https://en.wikipedia.org/wiki/Buzz_Aldrin).
+    - Michael Collins - [NASA.gov](https://www.nasa.gov/astronautprofiles/collins/), [wehackthemoon.com](https://wehackthemoon.com/bios/michael-collins) & [wikipedia.org](https://en.wikipedia.org/wiki/Michael_Collins_(astronaut)).
+  - Instructions for scrolling and zoom on hover was taken from [W3School](https://www.w3schools.com/cssref/pr_pos_overflow.php).
+  - The icons in the footer were taken from [FontAwesome](https://fontawesome.com/).
+  - [teamtreehouse.com](https://teamtreehouse.com/community/element-a-not-allowed-as-a-child-of-element-ul-in-this-context) gave help with css coding on an unordered list.
+  - Template for the code to design the website and various features came from tutorials and lessons on the [Code Institute Fullstack Developer Course](https://codeinstitute.net/).
+  - Mentor meetings gave me more insight on how to improve upon my ideas.
+  - Other students on the Code Insitiute course through the [Slack](https://slack.com/intl/en-gb/get-started#/createnew) website.
 
   ## Media
   - The photos used are from Open source sites [pixabay.com](https://pixabay.com/) , [NASA.org](https://www.nasa.gov/) , [history.nasa.gov](https://history.nasa.gov/ap11ann/kippsphotos/apollo.html) & [space.com](https://www.space.com/apollo-11-astronauts-quarantined-after-splashdown.html)
