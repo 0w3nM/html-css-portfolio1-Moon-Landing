@@ -88,7 +88,7 @@ The purpose of this website is to give information as to the overall moon landin
 ## Content
   - The text on the Home page was taken and reworded from [NASA.gov](https://www.nasa.gov/mission_pages/apollo/apollo11.html) 
   - The text from the History page was taken and reworded from [NASA.gov](https://www.nasa.gov/mission_pages/apollo/missions/index.html), [History.com](https://www.history.com/topics/space-exploration/moon-landing-1969)
-  - The Biographies pages have text taken and re-worded from these sites:
+  - The Biographies pages have text taken and reworded from these sites:
     - Neil A. Armstrong - [NASA.gov](https://www.nasa.gov/centers/glenn/about/bios/neilabio.html), [Wikipedia.org](https://en.wikipedia.org/wiki/Neil_Armstrong) & [History.com](https://www.history.com/topics/space-exploration/neil-armstrong).
     - Edwin E. 'Buzz' Aldrin - [BuzzAldrin.com](https://buzzaldrin.com/biography/), [History.com](https://www.history.com/topics/space-exploration/buzz-aldrin) & [Wikipedia.org](https://en.wikipedia.org/wiki/Buzz_Aldrin).
     - Michael Collins - [NASA.gov](https://www.nasa.gov/astronautprofiles/collins/), [wehackthemoon.com](https://wehackthemoon.com/bios/michael-collins) & [wikipedia.org](https://en.wikipedia.org/wiki/Michael_Collins_(astronaut)).
