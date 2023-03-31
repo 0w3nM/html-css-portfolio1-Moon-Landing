@@ -47,7 +47,7 @@ The purpose of this website is to give information as to the overall moon landin
 ![Links to social media sits ](/assets/images/footer-4.png)
 
 # -Testing-
-- The webpage was tested through Google Chrome Developer through out inspecting the change depending on the size of the screen and still allow content to be seen.
+- The webpage was tested through Google Chrome Developer through-out and was inspecting the change depending on the size of the screen and still allowing content to be seen.
 
 - All links tested to see if they went to the correct location and all action elements i.e scroll bar and media were checked to work as intended.
 
