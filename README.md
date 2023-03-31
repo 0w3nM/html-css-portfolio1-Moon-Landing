@@ -11,7 +11,7 @@ The purpose of this website is to give information as to the overall moon landin
 
 - Landing Page:
   * The page includes both internal & an audio link.
-  * The internal link allows users to navigate to a differernt page easier. The audio gives users control to listen to actual audio from the mssion. 
+  * The internal link allows users to navigate to a differernt page easier. The audio link gives users control to listen to actual audio from the mssion. 
 
 ![Audio player ](/assets/images/audio-link.png)
 ![Links to internal pages](/assets/images/internal-link.png)
@@ -23,7 +23,7 @@ The purpose of this website is to give information as to the overall moon landin
   ![Links to external pages via names of individuals](/assets/images/external-links.png)
 
 - Biographies:
-  * This section deatures a scroll bar.
+  * This section features a scroll bar.
   * This helps users view the content with a static page, focusing on the information.
 
   ![Scroll bar on right side of the text box](/assets/images/scroll-bar.png)
