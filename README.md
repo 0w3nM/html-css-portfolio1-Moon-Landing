@@ -1,6 +1,8 @@
 # Apollo 11 Moon Landing
 The purpose of this website is to give information as to the overall moon landing mission, while also giving information on the history and the main crew involved. The site is particularly aimed at the younger audience as well as novices, in this field of study and will be useful for them to gain basic knowledge with links to help them further.
 
+![Multi Website Mock Up](/assets/images/mock-up.png)
+
 # -Features-
 - Nav Bar:
   * Fully Responsive bar that is visible and is the same layout on each page. The bar shows links that lead to the Home, History, Biographies, and the Gallery page.
