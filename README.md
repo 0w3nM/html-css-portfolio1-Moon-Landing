@@ -47,7 +47,7 @@ The purpose of this website is to give information as to the overall moon landin
 ![Links to social media sits ](/assets/images/footer-4.png)
 
 # -Testing-
-- The webpage was tested through Google Chrome Developer through-out and was inspecting the change depending on the size of the screen and still allowing content to be seen.
+- Google Chrome Developer was used through-out building and was inspecting the change of the screen size and still allowing content to be seen.
 
 - All links tested to see if they went to the correct location and all action elements i.e scroll bar and media were checked to work as intended.
 
@@ -56,6 +56,14 @@ The purpose of this website is to give information as to the overall moon landin
 - Tested through lighthouse in Dev Tools.
 
 ![lighthouse result](/assets/images/lighthouse-result.png)
+
+## Bugs fixed
+
+- On deployment it was found that on a lower screen size, images and text boxes were not properly aligned, so styling were added in the css to correct this.
+
+## Bugs unfixed
+
+- Scaling to the hero images couldnt be achieved
 
 ## Validator Testing-
   - HTML
@@ -73,7 +81,7 @@ The purpose of this website is to give information as to the overall moon landin
 
 # -Deployment-
 - The site was deployed to Github pages.
-- Live link to page can be found her - -link-
+- Live link to page can be found here -https://0w3nm.github.io/html-css-portfolio1-Moon-Landing/
 
 ## Web browsers Used-
  - Chrome 
