@@ -312,6 +312,15 @@ footer a {
     audio {
         width:200px;
     }
+
+    footer {
+        text-align: center;
+        padding:3px;
+        background-color: white;
+        color: aliceblue;
+        padding-right: 20px;
+        border: 5px solid #ffd700; 
+    }
 }
 
 @media screen and (max-width:480px) {
@@ -384,6 +393,15 @@ footer a {
     h4 {
         width:fit-content;
         padding:5px;
+    }
+
+    footer {
+        text-align: center;
+        padding:3px;
+        background-color: white;
+        color: aliceblue;
+        padding-right: 20px;
+        border: 5px solid #ffd700; 
     }
 }
 
